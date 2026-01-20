@@ -16,12 +16,16 @@ export default function LandingPage() {
                 AgriSmart AI
               </span>
             </div>
-            <div className="hidden md:flex space-x-8">
+            <div className="hidden md:flex space-x-6 items-center">
               <a href="#features" className="text-gray-700 hover:text-amber-600 transition">Fitur</a>
-              <a href="#technology" className="text-gray-700 hover:text-amber-600 transition">Teknologi</a>
-              <a href="#benefits" className="text-gray-700 hover:text-amber-600 transition">Manfaat</a>
-              <Link href="/dashboard" className="bg-gradient-to-r from-amber-500 to-yellow-500 text-white px-6 py-2 rounded-full hover:from-amber-600 hover:to-yellow-600 transition shadow-md">
-                Dashboard
+              <Link href="/ai-assistant" className="text-gray-700 hover:text-amber-600 transition">AI Assistant</Link>
+              <Link href="/marketplace" className="text-gray-700 hover:text-amber-600 transition">Marketplace</Link>
+              <Link href="/dashboard" className="text-gray-700 hover:text-amber-600 transition">Dashboard</Link>
+              <Link href="/auth/login" className="text-amber-600 font-semibold hover:text-amber-700 transition">
+                Masuk
+              </Link>
+              <Link href="/auth/register" className="bg-gradient-to-r from-amber-500 to-yellow-500 text-white px-6 py-2 rounded-full hover:from-amber-600 hover:to-yellow-600 transition shadow-md">
+                Daftar
               </Link>
             </div>
           </div>

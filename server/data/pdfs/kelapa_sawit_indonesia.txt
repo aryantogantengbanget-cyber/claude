@@ -1,0 +1,365 @@
+# PANDUAN BUDIDAYA KELAPA SAWIT DI INDONESIA
+
+## Pendahuluan
+Kelapa sawit (Elaeis guineensis Jacq.) adalah tanaman penghasil minyak nabati terbesar di dunia. Indonesia adalah produsen minyak kelapa sawit terbesar di dunia, dengan luas perkebunan mencapai 16 juta hektar. Tanaman kelapa sawit sangat potensial dikembangkan di Indonesia karena kondisi iklim tropis yang sangat mendukung.
+
+## Kondisi Optimal Pertumbuhan Kelapa Sawit
+
+### Iklim
+- Suhu optimal: 24-32°C
+- Suhu minimum: 22°C
+- Curah hujan: 2.000-2.500 mm/tahun, merata sepanjang tahun
+- Hari hujan: 100-150 hari/tahun
+- Kelembaban relatif: 80-90%
+- Intensitas cahaya: 5-7 jam/hari
+- Kecepatan angin: tidak terlalu kencang
+
+### Tanah
+- pH tanah: 4.0-6.0 (optimal: 5.0-5.5)
+- Kedalaman efektif: minimal 80 cm
+- Drainase: baik, water table > 50 cm
+- Tekstur: lempung liat berpasir
+- Topografi: datar hingga bergelombang (kemiringan < 20°)
+- Ketinggian: 0-500 mdpl (optimal < 400 mdpl)
+
+## Pemilihan Bahan Tanam
+
+### Jenis Kelapa Sawit
+1. Dura: tebal cangkang > 2 mm, rendemen minyak rendah
+2. Pisifera: tidak bercangkang, steril (tidak menghasilkan buah)
+3. Tenera (hibrida Dura x Pisifera): tebal cangkang 0,5-4 mm, rendemen tinggi
+
+### Kriteria Bibit Unggul
+- Jenis Tenera bersertifikat
+- Umur bibit di pembibitan: 10-12 bulan
+- Tinggi bibit: 80-100 cm
+- Jumlah daun: 8-12 helai
+- Sehat, tidak terserang hama/penyakit
+- Sistem perakaran baik
+
+### Varietas Unggul
+- Simalungun (PPKS 239)
+- Yangambi (PPKS 718)
+- AVROS
+- Marihat (Socfindo)
+- Dumpy (Socfindo)
+
+## Pembibitan
+
+### Pembibitan Awal (Pre-Nursery)
+- Lama: 3 bulan
+- Media: tanah top soil + pasir (1:1)
+- Polybag kecil: 15x23 cm
+- Naungan: 50-60%
+- Penyiraman: 2 kali sehari
+
+### Pembibitan Utama (Main Nursery)
+- Lama: 8-9 bulan
+- Media: tanah top soil + pasir (3:1)
+- Polybag besar: 40x50 cm
+- Naungan: bertahap dikurangi
+- Pemupukan:
+  * NPK 15:15:15 (5-25 gram/bulan)
+  * Pupuk kandang: 100-200 gram
+  * Dolomit: 20-30 gram (awal)
+
+## Persiapan Lahan
+
+### Pembukaan Lahan
+1. Land clearing
+   - Tebas vegetasi
+   - Tebang pohon besar
+   - Sisakan Leguminosa Cover Crop (LCC)
+
+2. Atur drainase
+   - Buat kanal utama dan anak kanal
+   - Kedalaman: 1-1,5 meter
+   - Jarak antar kanal: 50-100 meter
+
+3. Pembuatan jalan
+   - Jalan utama: lebar 8-10 meter
+   - Jalan koleksi: lebar 6-8 meter
+   - Jalan produksi: lebar 4-6 meter
+
+### Penanaman LCC (Leguminosa Cover Crop)
+- Jenis: Mucuna bracteata, Pueraria javanica, Calopogonium mucunoides
+- Tujuan: menekan gulma, menambah nitrogen, konservasi tanah
+- Waktu tanam: 6 bulan sebelum penanaman kelapa sawit
+- Dosis: 4-6 kg/ha
+
+### Pembuatan Lubang Tanam
+- Ukuran: 60x60x60 cm
+- Jarak tanam: 9x9 meter (triangular/segitiga sama sisi)
+- Populasi: 143 pohon/ha (segitiga) atau 130 pohon/ha (bujur sangkar)
+- Isi lubang dengan top soil + pupuk kandang
+
+## Penanaman
+
+### Waktu Tanam
+- Awal musim hujan
+- Curah hujan minimal 100 mm/bulan
+- Hindari musim kemarau
+
+### Cara Tanam
+1. Sobek polybag hati-hati
+2. Tanam di tengah lubang
+3. Permukaan media sejajar dengan permukaan tanah
+4. Padatkan tanah di sekitar bibit
+5. Buat piringan diameter 2 meter
+6. Tutup dengan mulsa
+
+### Penanaman Sisipan
+- Dilakukan 3-6 bulan setelah tanam
+- Ganti tanaman mati atau abnormal
+- Gunakan bibit cadangan
+
+## Pemupukan
+
+### Prinsip Pemupukan
+- Berdasarkan analisis tanah dan daun
+- Tepat jenis, dosis, waktu, dan cara
+- Sesuai umur dan kondisi tanaman
+
+### Dosis Pupuk (gram/pohon/tahun)
+
+TBM (Tanaman Belum Menghasilkan):
+
+Tahun 1:
+- Urea: 500 gram
+- SP-36 atau RP: 300 gram
+- KCl atau MOP: 500 gram
+- Kieserite: 250 gram
+- Borate: 50 gram
+
+Tahun 2:
+- Urea: 1.000 gram
+- SP-36 atau RP: 500 gram
+- KCl atau MOP: 1.000 gram
+- Kieserite: 500 gram
+- Borate: 50 gram
+
+Tahun 3:
+- Urea: 1.500 gram
+- SP-36 atau RP: 750 gram
+- KCl atau MOP: 1.500 gram
+- Kieserite: 750 gram
+- Borate: 50 gram
+
+TM (Tanaman Menghasilkan):
+
+Dewasa (> 4 tahun):
+- Urea: 1.500-2.000 gram
+- SP-36 atau RP: 750-1.000 gram
+- KCl atau MOP: 2.000-3.000 gram
+- Kieserite: 750-1.000 gram
+- Borate: 50-100 gram
+
+### Waktu dan Frekuensi
+- TBM: 4-6 kali/tahun
+- TM: 2-3 kali/tahun
+- Aplikasi setelah hujan atau sebelum hujan
+
+### Cara Aplikasi
+- Taburkan merata di piringan (radius 2-3 meter)
+- Hindari kontak langsung dengan batang
+- Untuk tanaman dewasa: di bawah proyeksi tajuk
+
+## Pemeliharaan
+
+### Pengendalian Gulma
+1. Manual (garuk/parang)
+   - Piringan dan gawangan
+   - Interval: 4-6 minggu
+
+2. Kimia (herbisida)
+   - Glifosat, Paraquat
+   - Semprot gulma daun lebar dan rumput
+   - Hindari kena daun kelapa sawit
+
+3. Biologis
+   - Pertahankan LCC
+   - Aplikasi mulsa
+
+### Pemangkasan
+1. Pemangkasan pelepah
+   - Mulai umur 2-3 tahun
+   - Potong pelepah tua dan kering
+   - Jumlah pelepah yang dipertahankan:
+     * TBM: 48-56 pelepah
+     * TM: 40-48 pelepah
+   - Susun pelepah di gawangan
+
+2. Pemangkasan bunga/buah (ablasi)
+   - Dilakukan pada TBM
+   - Umur 12-30 bulan
+   - Tujuan: mempercepat pertumbuhan vegetatif
+
+### Pengendalian Hama
+
+1. Ulat Pemakan Daun (Setothosea asigna, Setora nitens)
+   - Gejala: daun robek, tinggal tulang daun
+   - Pengendalian:
+     * Pengutipan manual pada serangan ringan
+     * Semprot insektisida (abamectin, emamectin benzoate)
+     * Pelepasan parasitoid Tetrastichus sp.
+
+2. Kumbang Oryctes rhinoceros
+   - Gejala: daun robek berbentuk segitiga
+   - Pengendalian:
+     * Sanitasi tumpukan pelepah
+     * Perangkap kumbang dewasa
+     * Aplikasi Metarhizium anisopliae
+
+3. Tikus (Rattus spp.)
+   - Gejala: bibit mati, buah dimakan
+   - Pengendalian:
+     * Penanaman Barn Owl (burung hantu)
+     * Gropyokan (pemusnahan massal)
+     * Umpan racun tikus
+
+### Pengendalian Penyakit
+
+1. Busuk Pangkal Batang (Ganoderma boninense)
+   - Gejala: daun menguning, busuk pangkal batang
+   - Pengendalian:
+     * Eradikasi tanaman terserang
+     * Isolasi dengan parit
+     * Aplikasi Trichoderma sp.
+     * Hindari penanaman di area bekas terinfeksi
+
+2. Penyakit Kering (Curvularia sp.)
+   - Gejala: bercak coklat pada daun, daun kering
+   - Pengendalian:
+     * Pemangkasan daun terserang
+     * Aplikasi fungisida sistemik
+     * Perbaiki drainase
+
+## Panen
+
+### Kriteria Matang Panen
+- Buah outer: terdapat 10-12 brondolan jatuh per tandan
+- Buah inner: 50% brondolan berwarna orange kemerahan
+- Umur panen: 5,5-6 bulan setelah antesis (penyerbukan)
+
+### Sistem Panen
+1. Panen interval pendek (6-7 hari)
+   - Kualitas minyak lebih baik
+   - ALB (Asam Lemak Bebas) rendah
+   - Produktivitas optimal
+
+2. Panen interval panjang (10-14 hari)
+   - Tenaga kerja kurang
+   - Kualitas minyak turun
+   - Tidak disarankan
+
+### Cara Panen
+1. TBM (tanaman rendah)
+   - Gunakan pisau egrek/dodos
+   - Potong tandan di tangkai buah
+
+2. TM (tanaman tinggi)
+   - Gunakan egrek/dodos dengan galah panjang
+   - Panjang tangkai yang dipotong: 2,5 cm
+
+### Pengutipan Brondolan
+- Kumpulkan brondolan yang jatuh
+- Maksimal 48 jam setelah panen
+- Masukkan ke karung/gerobak
+
+### Pengangkutan ke Pabrik
+- Maksimal 24 jam setelah panen
+- Hindari penumpukan terlalu lama
+- Jaga kualitas TBS (Tandan Buah Segar)
+
+## Produktivitas dan Rendemen
+
+### Produktivitas TBS
+- TM muda (4-8 tahun): 10-15 ton/ha/tahun
+- TM prime (9-18 tahun): 20-30 ton/ha/tahun
+- TM tua (> 18 tahun): 15-20 ton/ha/tahun
+
+### Rendemen Minyak
+- CPO (Crude Palm Oil): 22-24%
+- PK (Palm Kernel): 5-6%
+- Rendemen total: 27-30%
+
+## Ekonomi Perkebunan Kelapa Sawit
+
+### Biaya Investasi (per hektar)
+- Pembukaan lahan: Rp 5-8 juta
+- Bibit: Rp 3-5 juta (143 pohon)
+- Penanaman dan pemeliharaan TBM (3 tahun): Rp 15-25 juta
+- Total investasi: Rp 25-40 juta
+
+### Biaya Operasional TM (per hektar/tahun)
+- Pemupukan: Rp 8-12 juta
+- Pemeliharaan: Rp 3-5 juta
+- Panen: Rp 4-6 juta
+- Total: Rp 15-23 juta
+
+### Pendapatan (per hektar/tahun)
+- Produksi TBS: 20-25 ton
+- Harga TBS: Rp 1.500-2.500/kg
+- Pendapatan kotor: Rp 30-62,5 juta
+- Keuntungan bersih: Rp 10-40 juta
+
+### BEP (Break Even Point)
+- Tahun ke-6 atau ke-7 setelah tanam
+
+## Tips Meningkatkan Produktivitas
+
+1. **Pemilihan Bibit Unggul**
+   - Gunakan bibit Tenera bersertifikat
+   - Pilih varietas sesuai kondisi lahan
+
+2. **Pemupukan Berimbang**
+   - Berdasarkan analisis tanah dan daun
+   - Tepat dosis, waktu, dan cara aplikasi
+   - Gunakan pupuk organik sebagai pelengkap
+
+3. **Pengendalian HPT Terpadu**
+   - Monitoring rutin
+   - Pengendalian biologis sebagai prioritas
+   - Pestisida sebagai langkah terakhir
+
+4. **Panen Optimal**
+   - Kriteria matang panen tepat
+   - Interval panen pendek (6-7 hari)
+   - Pengangkutan cepat ke pabrik
+
+5. **Pemeliharaan Infrastruktur**
+   - Jalan dan jembatan yang baik
+   - Drainase lancar
+   - TPH (Tempat Pengumpulan Hasil) memadai
+
+6. **Manajemen yang Baik**
+   - Pencatatan produksi
+   - Rotasi panen teratur
+   - Pelatihan pemanen
+
+7. **Replanting Tepat Waktu**
+   - Lakukan pada umur 25 tahun
+   - Gunakan varietas unggul baru
+   - Perhatikan aspek finansial
+
+## Keberlanjutan dan Sertifikasi
+
+### ISPO (Indonesian Sustainable Palm Oil)
+- Wajib untuk semua perkebunan di Indonesia
+- Standar: legalitas, manajemen, lingkungan, sosial
+
+### RSPO (Roundtable on Sustainable Palm Oil)
+- Standar internasional
+- Premium price untuk produk bersertifikat
+- Prinsip: no deforestation, no peat, no exploitation
+
+## Kesimpulan
+Kelapa sawit adalah tanaman perkebunan yang sangat menguntungkan jika dikelola dengan baik. Kunci sukses budidaya kelapa sawit adalah:
+- Pemilihan lahan dan bibit yang tepat
+- Pemeliharaan intensif fase TBM
+- Pemupukan berimbang
+- Panen tepat waktu
+- Manajemen yang profesional
+
+---
+Sumber: Pusat Penelitian Kelapa Sawit (PPKS), Direktorat Jenderal Perkebunan

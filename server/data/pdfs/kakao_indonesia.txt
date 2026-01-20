@@ -1,0 +1,235 @@
+# PANDUAN BUDIDAYA KAKAO DI INDONESIA
+
+## Pendahuluan
+Kakao (Theobroma cacao) adalah salah satu komoditas perkebunan unggulan Indonesia. Indonesia merupakan produsen kakao terbesar ketiga di dunia setelah Pantai Gading dan Ghana. Tanaman kakao tumbuh optimal di daerah tropis dengan iklim dan kondisi tanah yang sesuai.
+
+## Kondisi Optimal Pertumbuhan Kakao
+
+### Iklim
+- Suhu optimal: 21-32°C
+- Curah hujan: 1.500-2.500 mm/tahun
+- Kelembaban udara: 70-80%
+- Intensitas cahaya: 50-70% (memerlukan naungan)
+- Ketinggian: 0-600 mdpl
+
+### Tanah
+- pH tanah ideal: 6.0-7.0
+- Drainase baik, tidak tergenang
+- Kedalaman efektif: minimal 1,5 meter
+- Tekstur tanah: lempung berpasir
+- Kandungan bahan organik tinggi
+
+## Pemilihan Bibit
+Gunakan bibit unggul bersertifikat:
+- Varietas hibrida (F1) seperti Sulawesi 1, Sulawesi 2
+- Klon unggul: ICCRI 01, ICCRI 02, ICCRI 03, ICCRI 04
+- Bibit sehat, tidak terserang hama/penyakit
+- Umur bibit: 4-6 bulan
+
+## Penanaman
+
+### Persiapan Lahan
+1. Bersihkan lahan dari gulma dan sisa tanaman
+2. Buat lubang tanam 60x60x60 cm
+3. Campurkan tanah galian dengan pupuk kandang 20 kg/lubang
+4. Biarkan lubang tanam selama 2-4 minggu
+
+### Jarak Tanam
+- Sistem monokultur: 3x3 meter (1.111 pohon/ha)
+- Sistem tumpang sari: disesuaikan dengan tanaman penaung
+
+### Tanaman Penaung
+- Penaung sementara: pisang, singkong
+- Penaung tetap: kelapa, lamtoro, dadap
+- Jarak penaung: 6-12 meter
+
+## Pemupukan
+
+### Pupuk Dasar (per pohon/tahun)
+Umur 1-2 tahun:
+- Urea: 100-200 gram
+- SP-36: 75-150 gram
+- KCl: 100-200 gram
+
+Umur 3-5 tahun:
+- Urea: 300-400 gram
+- SP-36: 200-300 gram
+- KCl: 300-400 gram
+
+Umur > 5 tahun (produksi):
+- Urea: 400-600 gram
+- SP-36: 300-400 gram
+- KCl: 400-600 gram
+
+### Waktu Pemupukan
+- Diberikan 2-3 kali per tahun
+- Pemupukan pertama: awal musim hujan
+- Pemupukan kedua: pertengahan musim hujan
+- Pemupukan ketiga: akhir musim hujan
+
+### Cara Pemupukan
+- Buat parit melingkar di bawah tajuk (jarak 50-100 cm dari batang)
+- Taburkan pupuk merata dalam parit
+- Tutup dengan tanah
+
+## Pemeliharaan
+
+### Penyiangan
+- Lakukan 4-6 kali per tahun
+- Buang gulma di sekitar piringan (radius 1-1,5 meter)
+- Gunakan mulsa organik untuk menekan pertumbuhan gulma
+
+### Pemangkasan
+1. Pemangkasan bentuk (formative pruning)
+   - Dilakukan pada tanaman muda (1-2 tahun)
+   - Bentuk tajuk yang ideal
+
+2. Pemangkasan pemeliharaan (maintenance pruning)
+   - Buang tunas air (water shoots)
+   - Buang cabang yang sakit atau mati
+   - Pertahankan tinggi tanaman 3-4 meter
+
+3. Pemangkasan produksi (production pruning)
+   - Dilakukan pada tanaman dewasa
+   - Buka tajuk untuk meningkatkan aerasi dan penetrasi cahaya
+   - Buang cabang tua yang kurang produktif
+
+### Penyiraman
+- Penting pada musim kemarau
+- Frekuensi: 2-3 kali per minggu
+- Volume: 20-40 liter per pohon
+- Gunakan sistem irigasi tetes jika memungkinkan
+
+## Pengendalian Hama dan Penyakit
+
+### Hama Utama
+
+1. Penggerek Buah Kakao (PBK)
+   - Gejala: buah berlubang, biji rusak
+   - Pengendalian:
+     * Sanitasi kebun
+     * Pemangkasan buah terserang
+     * Penggunaan insektisida selektif
+     * Panen sering (interval 7 hari)
+
+2. Kepik Penghisap Buah (Helopeltis spp.)
+   - Gejala: bercak coklat pada buah dan pucuk
+   - Pengendalian:
+     * Atur naungan 30-50%
+     * Sanitasi kebun
+     * Insektisida bila diperlukan
+
+3. Ulat Pemakan Daun
+   - Gejala: daun berlubang atau habis dimakan
+   - Pengendalian:
+     * Pengutipan manual
+     * Insektisida hayati (Bacillus thuringiensis)
+
+### Penyakit Utama
+
+1. Busuk Buah (Phytophthora palmivora)
+   - Gejala: buah membusuk, bercak coklat kehitaman
+   - Pengendalian:
+     * Sanitasi kebun
+     * Buang buah terserang dan kubur
+     * Fungisida berbahan aktif tembaga
+     * Atur drainase dan naungan
+
+2. Vascular Streak Dieback (VSD)
+   - Gejala: daun layu, pembuluh kayu berbelang
+   - Pengendalian:
+     * Pemangkasan cabang terserang
+     * Gunakan varietas tahan
+     * Fungisida sistemik
+
+3. Kanker Batang
+   - Gejala: luka pada batang, getah mengering
+   - Pengendalian:
+     * Kerokan bagian sakit
+     * Oleskan fungisida
+     * Tutup dengan lilin atau ter
+
+## Panen dan Pascapanen
+
+### Ciri Buah Masak
+- Warna kulit berubah (kuning untuk jenis kuning, merah tua untuk jenis merah)
+- Buah berbunyi bila diguncang
+- Umur buah: 5-6 bulan setelah penyerbukan
+
+### Cara Panen
+- Gunakan galah berkait atau pisau tajam
+- Hindari melukai batang
+- Kumpulkan buah di tempat teduh
+- Panen interval 7-10 hari
+
+### Pengolahan Biji
+
+1. Pemecahan Buah (breaking)
+   - Pecah buah dengan pisau atau pemukul kayu
+   - Pisahkan biji dari kulit dan plasenta
+   - Buang biji sakit atau cacat
+
+2. Fermentasi
+   - Tujuan: memperbaiki cita rasa, menghilangkan lendir
+   - Metode: tumpukan atau kotak fermentasi
+   - Lama: 5-7 hari
+   - Balik 2 hari sekali
+   - Suhu: 45-50°C
+
+3. Penjemuran
+   - Jemur di para-para atau lantai jemur
+   - Ketebalan: 5-7 cm
+   - Balik berkala
+   - Lama: 5-7 hari
+   - Kadar air akhir: 7-8%
+
+4. Sortasi
+   - Pisahkan biji berkualitas baik
+   - Buang biji hampa, gepeng, berjamur
+   - Biji berkualitas: berukuran seragam, tidak cacat
+
+5. Penyimpanan
+   - Simpan dalam karung goni
+   - Ruang penyimpanan kering dan bersih
+   - Hindari kontaminasi bau
+   - Gunakan palet untuk alas
+
+## Produktivitas dan Ekonomi
+
+### Produktivitas
+- Mulai berbuah: umur 2,5-3 tahun
+- Produktivitas maksimal: umur 8-20 tahun
+- Produksi biji kering: 800-1.500 kg/ha/tahun (optimal)
+- Umur ekonomis: 20-30 tahun
+
+### Analisis Usaha (per hektar)
+Biaya Investasi:
+- Bibit dan penanaman: Rp 15-20 juta
+- Pupuk dan pestisida (tahun 1-3): Rp 5-8 juta/tahun
+- Tenaga kerja: Rp 10-15 juta/tahun
+
+Pendapatan:
+- Harga biji kering: Rp 25.000-40.000/kg
+- Produksi: 1.000 kg/ha/tahun
+- Pendapatan kotor: Rp 25-40 juta/ha/tahun
+- Keuntungan bersih: Rp 10-20 juta/ha/tahun
+
+### Tips Meningkatkan Produktivitas
+1. Gunakan klon unggul bersertifikat
+2. Pemupukan berimbang sesuai rekomendasi
+3. Pemangkasan rutin untuk memacu pembungaan
+4. Pengendalian hama dan penyakit secara terpadu
+5. Panen dan pascapanen yang baik
+6. Manajemen naungan optimal (50-70%)
+7. Pemeliharaan drainase
+8. Aplikasi mulsa organik
+9. Monitoring kesehatan tanaman berkala
+10. Sertifikasi produk (organik, UTZ, Rainforest Alliance)
+
+## Sumber dan Referensi
+- Pusat Penelitian Kopi dan Kakao Indonesia (ICCRI)
+- Direktorat Jenderal Perkebunan
+- Badan Penelitian dan Pengembangan Pertanian
+
+---
+Dokumen ini disusun untuk membantu petani kakao Indonesia meningkatkan produktivitas dan kualitas hasil panen.
